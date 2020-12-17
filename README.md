@@ -2,7 +2,7 @@
 Une application pour automatiser le processus d’analyse d’une séquence ADN. Elle vise à traiter quelques prblèmes principaux de Rosalind problems ![Rosalind](./doc/rosalind_nymu_bioinformatics_programming_2013.pdf).
 
 ## Exemples 
-![Interfaces](./doc/Interface1.png)
+![Interface](./Images/Interface.png)
 ## Technologies
 * Python
 * Tkinter
