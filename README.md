@@ -1,7 +1,7 @@
-# Sequence-analysis
+# Sequence analysis
 Une application pour automatiser le processus d’analyse d’une séquence ADN. Elle vise à traiter quelques prblèmes principaux de Rosalind problems ![Rosalind](./doc/rosalind_nymu_bioinformatics_programming_2013.pdf).
 
-## Exemples 
+## 
 ![Interface](./Images/Interface.png)
 ## Technologies
 * Python
@@ -21,4 +21,9 @@ Une application pour automatiser le processus d’analyse d’une séquence ADN.
 * Effectuer l'épissage d'ARN.  
 * Sauvegarder les résultats obtenus dans un fichier.
 
-## Requirments
+## Installation
+```
+pip install tkinter
+pip install random
+pip install sys
+```
