@@ -27,3 +27,6 @@ pip install tkinter
 pip install random
 pip install sys
 ```
+```
+git clone https://github.com/sirineFoudili/Sequence-analysis.git
+```
